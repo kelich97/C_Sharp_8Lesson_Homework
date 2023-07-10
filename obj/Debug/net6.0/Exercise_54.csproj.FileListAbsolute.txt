@@ -1,0 +1,15 @@
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\bin\Debug\net6.0\Exercise_54.exe
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\bin\Debug\net6.0\Exercise_54.deps.json
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\bin\Debug\net6.0\Exercise_54.runtimeconfig.json
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\bin\Debug\net6.0\Exercise_54.dll
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\bin\Debug\net6.0\Exercise_54.pdb
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.csproj.AssemblyReference.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.AssemblyInfoInputs.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.AssemblyInfo.cs
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.csproj.CoreCompileInputs.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.dll
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\refint\Exercise_54.dll
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.pdb
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\Exercise_54.genruntimeconfig.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# 8 HomeWork\Exercise_54\obj\Debug\net6.0\ref\Exercise_54.dll
